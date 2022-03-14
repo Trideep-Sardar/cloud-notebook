@@ -24,6 +24,11 @@
   color: white;
 }
 
+/* css for icons  */
+i{
+  cursor: pointer;
+}
+
 .App-link {
   color: #61dafb;
 }
